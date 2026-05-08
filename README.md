@@ -1,6 +1,9 @@
 # ShiftPOS
 A personal project of mine that I want to work on. This will be both focused on the backend and the frontend
 
+**Project Background**
+I work at a restaurant and we use a very common operating system made for restaurants. For me I have found the OS we use to be not the best at what it does, we constantly have problems with having different staff not being on the same page and having a very hard time communicating with each other because of the scale and volume of the restaurant. My goal is to tackle this problem for my restaurant specfically. The focus for this project is to make sure that whoever requires a device for their part of their job, will be on one page with the whole restaurant and they have the ability to make the adequate decision for the guests.
+
 **Backend:**
  Supabase with Postgres, Auth, Row Level Security, and Realtime
 
