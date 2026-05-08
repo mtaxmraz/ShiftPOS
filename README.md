@@ -46,4 +46,3 @@ Features that I want Implemented into the code:
    - Daily Order count
    - Daily Revenue estimate
    - Most ordred item(s)
-   - 
